@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cairo knowledge](README.md)
+* [Cairo Knowledge](README.md)
 * [章节 1：Cairo v2 程序的入口](00\_Cairo1.0程序的入口.md)
 * [章节 2：Cairo v2 中的变量](01\_Cairo1.0中的变量.md)
 * [章节 3：Cairo v2 中的常量](02\_Cairo1.0中的常量.md)
