@@ -1,5 +1,5 @@
 # Starknet Cairo v2 Knowledge
 
-此文章使用的Cairo编译器版本：2.0.0-rc0。因为 Cairo 正在快速更新，所以不同版本的语法会有些许不同，未来将会将文章内容更新到稳定版本。
+This article uses Cairo compiler version 2.0.0-rc0. As Cairo is rapidly evolving, the syntax of different versions may vary slightly, and the content of the article will be updated to a stable version in the future.
 
-欢迎来到这里一起学习Cairo，目前的内容相对简陋，但是代码都是经过运行验证的。接下来我们会持续丰富里面的内容，将最新的变更和实战技巧分享给大家。祝大家学的开心，发车🏄‍♀️
+Welcome to learn Cairo here. Currently, the content is relatively simple, but all the code has been verified by running. We will continue to enrich the content and share the latest changes and practical tips with you. We wish you a happy learning and success in your endeavors.🏄‍♀️

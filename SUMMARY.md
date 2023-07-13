@@ -1,9 +1,9 @@
 # 目录
 
-* [章节 1：Cairo v2 程序的入口](00_Cairo1.0程序的入口.md)
-* [章节 2：Cairo v2 中的变量](01_Cairo1.0中的变量.md)
-* [章节 3：Cairo v2 中的常量](02_Cairo1.0中的常量.md)
-* [章节 4：Cairo v2 中的标量类型](03_Cairo1.0中的标量类型(felt,integer,boolean,float).md)
+* [章节 1：Cairo v2 程序的入口](00_The entry point of a Cairo program.md)
+* [章节 2：Cairo v2 中的变量](01_Variables in Cairo.md)
+* [章节 3：Cairo v2 中的常量](02_Constants in Cairo.md)
+* [章节 4：Cairo v2 中的标量类型](03_Scalar Types in Cairo(felt,integer,boolean,float).md)
 * [章节 5：Cairo v2 中的类型转换](04_Cairo1.0中的类型转换.md)
 * [章节 6：Cairo v2 中的Enum(枚举)](05_Cairo1.0中的Enum(枚举).md)
 * [章节 7：Cairo v2 中的Option(特殊Enum)](06_Cairo1.0中的Option(特殊Enum).md)
