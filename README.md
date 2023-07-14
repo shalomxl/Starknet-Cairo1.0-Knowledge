@@ -1,5 +1,5 @@
 ---
-description: 学习Cairo是的个人笔记
+description: 学习Cairo时的个人笔记
 ---
 
 # Cairo Language Knowledge
