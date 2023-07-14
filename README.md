@@ -1,4 +1,4 @@
-# Starknet Cairo v2 Knowledge
+# Starknet Cairo Knowledge
 
 This article uses Cairo compiler version 2.0.0-rc0. As Cairo is rapidly evolving, the syntax of different versions may vary slightly, and the content of the article will be updated to a stable version in the future.
 
