@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cairo Knowledge](README.md)
+* [Cairo Language Knowledge](README.md)
 * [Chapter 1: The Entry Point of a Cairo Program](00\_The\_entry\_point.md)
 * [Chapter 2: Variables in Cairo](01\_Variables.md)
 * [Chapter 3: Constants in Cairo](02\_Constants.md)
