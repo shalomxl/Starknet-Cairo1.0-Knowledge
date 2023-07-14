@@ -1,4 +1,8 @@
-# Starknet Cairo v2 Knowledge
+---
+description: 学习Cairo是的个人笔记
+---
+
+# Cairo Language Knowledge
 
 此文章使用的Cairo编译器版本：2.0.0-rc0。因为 Cairo 正在快速更新，所以不同版本的语法会有些许不同，未来将会将文章内容更新到稳定版本。
 
